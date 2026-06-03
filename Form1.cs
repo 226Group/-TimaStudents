@@ -38,6 +38,7 @@ namespace TimaStudents
                 studentsTableAdapter
             }
 
+
             //var selectedIds = dataGridView1.SelectedRows
             //    .Cast<DataGridViewRow>()
             //    .Select(row => Convert.ToInt32(row.Cells["ID"].Value))
